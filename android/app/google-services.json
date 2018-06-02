@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "238223633247",
+    "firebase_url": "https://ngabuburit-ms.firebaseio.com",
+    "project_id": "ngabuburit-ms",
+    "storage_bucket": "ngabuburit-ms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238223633247:android:b481e3b206cceb81",
+        "android_client_info": {
+          "package_name": "com.ngabuburit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238223633247-bj1m279cv4enjs7j1nfcii75fpsortr3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "238223633247-bj1m279cv4enjs7j1nfcii75fpsortr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmHor75ltNu4hVMFSVMpNEeRkuAK-E6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
